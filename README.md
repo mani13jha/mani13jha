@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mani13jha
 - 👀 I’m interested in Robotics, IoT, Web Development and Embedded System
-- 🌱 I’m currently learning Full Stack Web Development with ReactJS
+- 🌱 I’m currently working as a Firmware Engineer at Basil
 - 💞️ I’m looking to collaborate on Robotics, IoT, Web Development and Embedded System.
 - 📫 How to reach me maninderjha05@gmail.com
 
